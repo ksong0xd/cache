@@ -10,6 +10,7 @@ import (
 	"net/url"
 	"sync"
 	"time"
+	"strings"
 
 	"github.com/ksong0xd/cache/persistence"
 	"github.com/gin-contrib/gin"
