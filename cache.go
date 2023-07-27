@@ -12,7 +12,7 @@ import (
 	"time"
 
 	"github.com/ksong0xd/cache/persistence"
-	"github.com/ksong0xd/gin"
+	"github.com/gin-contrib/gin"
 )
 
 const (
