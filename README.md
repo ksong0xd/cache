@@ -1,3 +1,5 @@
+forked version of https://github.com/gin-contrib/cache to add/test feature like cache by header.
+
 # Cache gin's middleware
 
 [![Build Status](https://github.com/gin-contrib/cache/actions/workflows/testing.yml/badge.svg)](https://github.com/gin-contrib/cache/actions/workflows/testing.yml)
